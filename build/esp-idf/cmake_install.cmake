@@ -414,11 +414,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/cmake_install.cmake")
+  include("D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/cmake_install.cmake")
+  include("D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/cmake_install.cmake")
 endif()
 
