@@ -642,3 +642,10 @@ D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/CMakeF
 D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/CMakeFiles/install.dir
 D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/CMakeFiles/install/local.dir
 D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/Main/CMakeFiles/install/strip.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/__idf_LED.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/edit_cache.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/rebuild_cache.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/list_install_components.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/install.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/install/local.dir
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/esp-idf/LED/CMakeFiles/install/strip.dir
