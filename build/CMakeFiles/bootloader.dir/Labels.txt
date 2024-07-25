@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/CMakeFiles/bootloader-complete.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/GitHubRepos/_ENGEDU/Special_Topics_2567/ESP32_Blank/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
